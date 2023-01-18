@@ -1,0 +1,14 @@
+body{
+    background-color:cyan
+}
+h1{
+    color:black;
+    text-align:center;
+}
+h2{
+    color:gray
+}
+.horizontal-center {
+    margin: auto;
+    text-align:center;
+  }
