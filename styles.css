@@ -6,6 +6,6 @@ h1{
     text-align:center;
 }
 .horizontal-center {
-    margin: auto;
-    text-align:center;
+    display: flex;s
+    justify-content: center;
   }
